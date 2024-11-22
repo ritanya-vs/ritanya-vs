@@ -10,5 +10,6 @@ A passionate 3rd-year student majoring in Data Science with a deep interest in l
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritanya-vs&layout=compact&langs_count=5&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritanya-vs&layout=compact&langs_count=5&theme=default)
+
 
