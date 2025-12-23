@@ -1,6 +1,6 @@
 # Hi there, I'm Ritanya 👋
 
-A passionate 3rd-year student majoring in Data Science with a deep interest in leveraging technology and analytics to solve complex problems. 
+A passionate 4th-year student majoring in Data Science with a deep interest in leveraging technology and analytics to solve complex problems. 
 
 ## 👨‍💻 About Me
 - 🧠 I have a deep interest in **Artificial Intelligence**, **Machine Learning**, and **Software Development**.
